@@ -2,7 +2,7 @@
  
  ## Lets see the language which computers will be able to understand 
  
- ### Try it out: 🌟   [Live demo](https://harsh-chat-room.herokuapp.com) 
+ ### Try it out: 🌟   [Live demo](https://harsh-binary-translate.netlify.app/) 
 
 ## 😂 Here is a random joke that'll make you laugh!
 
